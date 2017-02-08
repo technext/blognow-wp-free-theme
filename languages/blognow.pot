@@ -1,0 +1,379 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: blognow 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2017-01-18 23:13+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/customizer-options.php:31
+msgid "Theme Settings"
+msgstr ""
+
+#: admin/customizer-options.php:37
+msgid "Logo"
+msgstr ""
+
+#: admin/customizer-options.php:50
+msgid "Site Layout"
+msgstr ""
+
+#: admin/customizer-options.php:59
+msgid "Sticky header navigation"
+msgstr ""
+
+#: admin/customizer-options.php:67
+msgid "Mobile Primary Menu Heading Text"
+msgstr ""
+
+#: admin/customizer-options.php:70 header.php:169
+msgid "Pages"
+msgstr ""
+
+#: admin/customizer-options.php:75
+msgid "Mobile Secondary Menu Heading Text"
+msgstr ""
+
+#: admin/customizer-options.php:78 header.php:180
+msgid "Categories"
+msgstr ""
+
+#: admin/customizer-options.php:83
+msgid "Display header search form"
+msgstr ""
+
+#: admin/customizer-options.php:91
+msgid "Display header advertisement"
+msgstr ""
+
+#: admin/customizer-options.php:99
+msgid "Header Ad Image URL"
+msgstr ""
+
+#: admin/customizer-options.php:107
+msgid "Header Ad URL"
+msgstr ""
+
+#: admin/customizer-options.php:115
+msgid "Display featured content on homepage"
+msgstr ""
+
+#: admin/customizer-options.php:123
+msgid "Number of words to show on excerpt"
+msgstr ""
+
+#: admin/customizer-options.php:131
+msgid "Display share icons on posts list"
+msgstr ""
+
+#: admin/customizer-options.php:139
+msgid "Display share icons on single posts"
+msgstr ""
+
+#: admin/customizer-options.php:147
+msgid "Display author box on single posts"
+msgstr ""
+
+#: admin/customizer-options.php:154
+msgid "Display related posts on single posts"
+msgstr ""
+
+#: admin/customizer-options.php:162
+msgid "Display footer widgets"
+msgstr ""
+
+#: admin/customizer-options.php:170
+msgid "Display \"back to top\" icon link on the site bottom"
+msgstr ""
+
+#: admin/customizer-options.php:178
+msgid "Customize Site Footer Text/Link"
+msgstr ""
+
+#: admin/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr ""
+
+#: admin/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr ""
+
+#: admin/extensions/fonts.php:125
+msgid "All"
+msgstr ""
+
+#: admin/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr ""
+
+#: admin/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: admin/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr ""
+
+#: admin/extensions/fonts.php:129
+msgid "Greek"
+msgstr ""
+
+#: admin/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr ""
+
+#: admin/extensions/fonts.php:131
+msgid "Khmer"
+msgstr ""
+
+#: admin/extensions/fonts.php:132
+msgid "Latin"
+msgstr ""
+
+#: admin/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr ""
+
+#: admin/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr ""
+
+#: archive.php:41 category.php:33 index.php:175 search.php:33
+msgid "Prev"
+msgstr ""
+
+#: archive.php:45 category.php:37 index.php:179 search.php:37
+msgid "Next"
+msgstr ""
+
+#: archive.php:79 category.php:71 index.php:215 search.php:76
+msgid "Previous"
+msgstr ""
+
+#: footer.php:52
+msgid "<span class=\"step\">Step 4.</span> Add footer widgets"
+msgstr ""
+
+#: footer.php:53
+msgid "Place widgets to the <strong>Footer Column 1/2/3/4</strong>"
+msgstr ""
+
+#: footer.php:55 index.php:37 sidebar.php:19
+msgid "Okay, I'm doing now"
+msgstr ""
+
+#: footer.php:80
+msgid "Theme by"
+msgstr ""
+
+#: footer.php:94
+msgid "<span class=\"step\">Step 5.</span> Add menu for theme location: Footer Menu"
+msgstr ""
+
+#: footer.php:109
+msgid "Back to top"
+msgstr ""
+
+#: header.php:41
+msgid "<span class=\"step\">Step 1.</span> Add menu for theme location: Primary Menu"
+msgstr ""
+
+#: header.php:55 header.php:135 header.php:156
+msgid "Search"
+msgstr ""
+
+#: header.php:96
+msgid "Advertisement"
+msgstr ""
+
+#: header.php:116
+msgid "<span class=\"step\">Step 2.</span> Add menu for theme location: Secondary Menu"
+msgstr ""
+
+#: header.php:142
+msgid "Menu"
+msgstr ""
+
+#: inc/template-tags.php:77
+msgid "Featured this post on homepage"
+msgstr ""
+
+#: inc/template-tags.php:142
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: inc/widgets/widget-popular.php:23
+msgid "Display popular posts by comments with thumbnails."
+msgstr ""
+
+#: inc/widgets/widget-popular.php:29
+msgid "&raquo; Popular Posts"
+msgstr ""
+
+#: inc/widgets/widget-popular.php:155 inc/widgets/widget-random.php:130
+#: inc/widgets/widget-recent.php:154 inc/widgets/widget-social.php:136
+#: inc/widgets/widget-views.php:131
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widget-popular.php:162 inc/widgets/widget-random.php:137
+#: inc/widgets/widget-recent.php:161 inc/widgets/widget-views.php:138
+msgid "Number of posts to show"
+msgstr ""
+
+#: inc/widgets/widget-popular.php:170 inc/widgets/widget-random.php:145
+#: inc/widgets/widget-recent.php:169 inc/widgets/widget-views.php:146
+msgid "Display post date?"
+msgstr ""
+
+#: inc/widgets/widget-random.php:23
+msgid "Display random posts with thumbnails."
+msgstr ""
+
+#: inc/widgets/widget-random.php:29
+msgid "&raquo; Random Posts"
+msgstr ""
+
+#: inc/widgets/widget-recent.php:23
+msgid "Display recent posts with thumbnails."
+msgstr ""
+
+#: inc/widgets/widget-recent.php:29
+msgid "&raquo; Recent Posts"
+msgstr ""
+
+#: inc/widgets/widget-social.php:23
+msgid "Display your social media icons."
+msgstr ""
+
+#: inc/widgets/widget-social.php:29
+msgid "&raquo; Social Icons"
+msgstr ""
+
+#: inc/widgets/widget-social.php:143
+msgid "Facebook"
+msgstr ""
+
+#: inc/widgets/widget-social.php:150
+msgid "Twitter"
+msgstr ""
+
+#: inc/widgets/widget-social.php:157
+msgid "Google Plus"
+msgstr ""
+
+#: inc/widgets/widget-social.php:164
+msgid "Pinterest"
+msgstr ""
+
+#: inc/widgets/widget-social.php:171
+msgid "YouTube"
+msgstr ""
+
+#: inc/widgets/widget-social.php:178
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/widgets/widget-social.php:185
+msgid "Instagram"
+msgstr ""
+
+#: inc/widgets/widget-social.php:192
+msgid "Tumblr"
+msgstr ""
+
+#: inc/widgets/widget-social.php:199
+msgid "RSS Feed"
+msgstr ""
+
+#: inc/widgets/widget-views.php:23
+msgid "Display the most viewed posts with thumbnails."
+msgstr ""
+
+#: inc/widgets/widget-views.php:29
+msgid "&raquo; Most Viewed Posts"
+msgstr ""
+
+#: index.php:34
+msgid "<span class=\"step\">Step 3.</span> Select featured posts"
+msgstr ""
+
+#: index.php:35
+msgid "Edit any post and tick the <strong>Featured this post on homepage</strong> checkbox from <strong>Post Options</strong>"
+msgstr ""
+
+#: index.php:35
+msgid "how to"
+msgstr ""
+
+#: index.php:162
+msgid "Latest <span>Stories</span> "
+msgstr ""
+
+#: sidebar.php:16
+msgid "There is no content here"
+msgstr ""
+
+#: sidebar.php:17
+msgid "Please put some widgets to the <strong>Sidebar</strong>"
+msgstr ""
+
+#: template-parts/content-loop.php:23 template-parts/content-search.php:23
+#: template-parts/content-single.php:26
+msgid "by"
+msgstr ""
+
+#: template-parts/content-loop.php:34 template-parts/content-search.php:34
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-single.php:42
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-single.php:86
+msgid "About the author:"
+msgstr ""
+
+#: template-parts/content-single.php:93
+msgid "View all posts by"
+msgstr ""
+
+#: template-parts/content-single.php:136
+msgid "Related Posts"
+msgstr ""
+
+#: template-parts/entry-share.php:3
+msgid "Share on Facebook"
+msgstr ""
+
+#: template-parts/entry-share.php:4
+msgid "Share on Twitter"
+msgstr ""
+
+#: template-parts/entry-share.php:5
+msgid "Share on Pinterest"
+msgstr ""
+
+#: template-parts/entry-share.php:6
+msgid "Share on Google+"
+msgstr ""

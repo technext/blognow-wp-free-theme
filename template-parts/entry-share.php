@@ -1,0 +1,7 @@
+<div class="entry-share">
+	<a class="icon-comment" href="<?php comments_link(); ?> "><span class="genericon genericon-comment"></span></a>
+	<a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode( get_permalink( get_the_ID() ) ); ?>" title="<?php echo __('Share on Facebook', 'blognow'); ?>" target="_blank"><span class="genericon genericon-facebook-alt"></span></a>
+	<a class="icon-twitter" href="https://twitter.com/intent/tweet?text=<?php echo urlencode( esc_attr( get_the_title( get_the_ID() ) ) ); ?>&amp;url=<?php echo urlencode( get_permalink( get_the_ID() ) ); ?>"  title="<?php echo __('Share on Twitter', 'blognow'); ?>" target="_blank"><span class="genericon genericon-twitter"></span></a>
+	<a class="icon-pinterest" href="https://pinterest.com/pin/create/button/?url=<?php echo urlencode( get_permalink( get_the_ID() ) ); ?>&amp;media=<?php echo urlencode( wp_get_attachment_url( get_post_thumbnail_id( get_the_ID() ) ) ); ?>" title="<?php echo __('Share on Pinterest', 'blognow'); ?>" target="_blank"><span class="genericon genericon-pinterest"></span></a>
+	<a class="icon-google-plus" href="https://plus.google.com/share?url=<?php echo urlencode( get_permalink( get_the_ID() ) ); ?>" title="<?php echo __('Share on Google+', 'blognow'); ?>" target="_blank"><span class="genericon genericon-googleplus-alt"></span></a>
+</div><!-- .entry-share -->
